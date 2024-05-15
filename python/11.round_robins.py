@@ -106,5 +106,5 @@ def main():
     print("\n\n\t\t--IO of 2 units--\n")
     print_chart(random_execution)
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()

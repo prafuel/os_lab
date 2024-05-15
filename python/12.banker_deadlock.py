@@ -53,5 +53,5 @@ def main():
         print("System is not in a safe state.")
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
